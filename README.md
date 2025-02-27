@@ -1,4 +1,5 @@
 ## Hi there 👋, I am Rishu Rai
+![image](https://github.com/user-attachments/assets/6fe7b253-1dd9-43c9-bdb5-43a0dca6403b)
 
 - 🔭 I’m currently working on E-commerce Application
 - 🌱 I’m currently learning Redux
