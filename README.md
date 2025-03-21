@@ -1,7 +1,7 @@
 ## Hi there 👋, I am Rishu Rai
 
 - 🔭 I’m currently working on E-commerce Application
-- 🌱 I’m currently learning Redux
+- 🌱 I’m currently learning Backend
 - 👯 I’m looking to collaborate on building complex products from scratch
 - 🤔 I’m looking for help with getting job as a Frontend Engineer
 - 💬 Ask me about JavaScript, React, TypeScript, DSA and Computer Engineering
